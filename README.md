@@ -1,5 +1,7 @@
 # kindle-resources
-https://www.neat-reader.com/ https://kdp.amazon.com/en_US/help/topic/G200634390
+https://www.neat-reader.com/
+
+https://kdp.amazon.com/en_US/help/topic/G200634390
 
 https://kdp.amazon.com/en_US/help/topic/G200634390
 
